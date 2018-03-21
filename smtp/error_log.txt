@@ -1,0 +1,33 @@
+[10-Oct-2011 12:03:55] PHP Notice:  Undefined variable: imagem_nome in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 25
+[10-Oct-2011 12:03:55] PHP Notice:  Undefined variable: imagem_nome in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 26
+[10-Oct-2011 12:03:55] PHP Warning:  fread(): supplied argument is not a valid stream resource in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 26
+[10-Oct-2011 12:03:55] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 28
+[10-Oct-2011 12:03:55] PHP Notice:  Undefined variable: nome in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 55
+[10-Oct-2011 12:03:55] PHP Notice:  Undefined variable: login in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 55
+[10-Oct-2011 12:03:55] PHP Notice:  Undefined variable: password in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 67
+[10-Oct-2011 12:03:55] PHP Warning:  PHPMailer::include_once(class.smtp.php) [<a href='phpmailer.include-once'>phpmailer.include-once</a>]: failed to open stream: No such file or directory in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:03:55] PHP Warning:  PHPMailer::include_once() [<a href='function.include'>function.include</a>]: Failed opening 'class.smtp.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:03:55] PHP Fatal error:  Class 'SMTP' not found in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 527
+[10-Oct-2011 12:06:39] PHP Warning:  fopen(imgs/regiao.png) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 27
+[10-Oct-2011 12:06:39] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for imgs/regiao.png in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 28
+[10-Oct-2011 12:06:39] PHP Warning:  fread(): supplied argument is not a valid stream resource in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 28
+[10-Oct-2011 12:06:39] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 30
+[10-Oct-2011 12:06:39] PHP Notice:  Undefined variable: nome in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 57
+[10-Oct-2011 12:06:39] PHP Notice:  Undefined variable: login in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 57
+[10-Oct-2011 12:06:39] PHP Notice:  Undefined variable: password in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 69
+[10-Oct-2011 12:06:39] PHP Warning:  PHPMailer::include_once(class.smtp.php) [<a href='phpmailer.include-once'>phpmailer.include-once</a>]: failed to open stream: No such file or directory in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:06:39] PHP Warning:  PHPMailer::include_once() [<a href='function.include'>function.include</a>]: Failed opening 'class.smtp.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:06:39] PHP Fatal error:  Class 'SMTP' not found in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 527
+[10-Oct-2011 12:06:55] PHP Notice:  Undefined variable: nome in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 57
+[10-Oct-2011 12:06:55] PHP Notice:  Undefined variable: login in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 57
+[10-Oct-2011 12:06:55] PHP Notice:  Undefined variable: password in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 69
+[10-Oct-2011 12:06:55] PHP Warning:  PHPMailer::include_once(class.smtp.php) [<a href='phpmailer.include-once'>phpmailer.include-once</a>]: failed to open stream: No such file or directory in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:06:55] PHP Warning:  PHPMailer::include_once() [<a href='function.include'>function.include</a>]: Failed opening 'class.smtp.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:06:55] PHP Fatal error:  Class 'SMTP' not found in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 527
+[10-Oct-2011 12:07:30] PHP Notice:  Undefined variable: nome in /var/www/totalvd.com.br/smtp/envia_smtp.php on line 69
+[10-Oct-2011 12:07:30] PHP Warning:  PHPMailer::include_once(class.smtp.php) [<a href='phpmailer.include-once'>phpmailer.include-once</a>]: failed to open stream: No such file or directory in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:07:30] PHP Warning:  PHPMailer::include_once() [<a href='function.include'>function.include</a>]: Failed opening 'class.smtp.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:07:30] PHP Fatal error:  Class 'SMTP' not found in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 527
+[10-Oct-2011 12:08:00] PHP Warning:  PHPMailer::include_once(class.smtp.php) [<a href='phpmailer.include-once'>phpmailer.include-once</a>]: failed to open stream: No such file or directory in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:08:00] PHP Warning:  PHPMailer::include_once() [<a href='function.include'>function.include</a>]: Failed opening 'class.smtp.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 460
+[10-Oct-2011 12:08:00] PHP Fatal error:  Class 'SMTP' not found in /var/www/totalvd.com.br/smtp/class.phpmailer.php on line 527
